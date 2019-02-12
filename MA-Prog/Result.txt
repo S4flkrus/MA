@@ -1,0 +1,390 @@
+vertices: 1024 edges: 1024 average degree: 2 
+Graph Empty vertices_in_the_cover: 495 faktor: 1
+Grad 1 Fall 1: 36 Grad 1 Fall 2: 125 Grad 1 Fall 3: 0 Grad 1 Fall 4: 0 Grad 1 Fall 5: 0 Grad 1 Fall 6: 167 Grad 1 Fall 7: 0 Grad 1 Fall 8: 129
+Grad 2 Fall 1: 0 Grad 2 Fall 2: 0 Grad 2 Fall 3: 0 Grad 2 Fall 4: 0 Grad 2 Fall 5: 0 Grad 2 Fall 6: 0 Grad 2 Fall 7: 0 Grad 2 Fall 8: 0 Grad 2 Fall 9: 0
+Grad 3 Fall 1: 0 Grad 3 Fall 2: 0 Grad 3 Fall 3: 0 Grad 3 Fall 3: 0 Grad 4 Fall 1: 0 Grad 4 Fall 2: 0 Ausgleichsschritte: 0
+ Runtime1: 0ms
+vertices: 2048 edges: 2048 average degree: 2 
+Graph Empty vertices_in_the_cover: 999 faktor: 1
+Grad 1 Fall 1: 70 Grad 1 Fall 2: 223 Grad 1 Fall 3: 0 Grad 1 Fall 4: 0 Grad 1 Fall 5: 0 Grad 1 Fall 6: 353 Grad 1 Fall 7: 0 Grad 1 Fall 8: 251
+Grad 2 Fall 1: 0 Grad 2 Fall 2: 0 Grad 2 Fall 3: 0 Grad 2 Fall 4: 0 Grad 2 Fall 5: 0 Grad 2 Fall 6: 0 Grad 2 Fall 7: 0 Grad 2 Fall 8: 0 Grad 2 Fall 9: 0
+Grad 3 Fall 1: 0 Grad 3 Fall 2: 0 Grad 3 Fall 3: 0 Grad 3 Fall 3: 0 Grad 4 Fall 1: 0 Grad 4 Fall 2: 0 Ausgleichsschritte: 0
+ Runtime1: 0ms
+vertices: 4096 edges: 4096 average degree: 2 
+Graph Empty vertices_in_the_cover: 1967 faktor: 1
+Grad 1 Fall 1: 156 Grad 1 Fall 2: 471 Grad 1 Fall 3: 0 Grad 1 Fall 4: 0 Grad 1 Fall 5: 0 Grad 1 Fall 6: 670 Grad 1 Fall 7: 0 Grad 1 Fall 8: 544
+Grad 2 Fall 1: 0 Grad 2 Fall 2: 0 Grad 2 Fall 3: 0 Grad 2 Fall 4: 0 Grad 2 Fall 5: 0 Grad 2 Fall 6: 0 Grad 2 Fall 7: 0 Grad 2 Fall 8: 0 Grad 2 Fall 9: 0
+Grad 3 Fall 1: 0 Grad 3 Fall 2: 0 Grad 3 Fall 3: 0 Grad 3 Fall 3: 0 Grad 4 Fall 1: 0 Grad 4 Fall 2: 0 Ausgleichsschritte: 0
+ Runtime1: 0ms
+vertices: 8192 edges: 8192 average degree: 2 
+Graph Empty vertices_in_the_cover: 3952 faktor: 1.00025
+Grad 1 Fall 1: 308 Grad 1 Fall 2: 967 Grad 1 Fall 3: 1 Grad 1 Fall 4: 0 Grad 1 Fall 5: 0 Grad 1 Fall 6: 1336 Grad 1 Fall 7: 0 Grad 1 Fall 8: 1062
+Grad 2 Fall 1: 0 Grad 2 Fall 2: 0 Grad 2 Fall 3: 0 Grad 2 Fall 4: 1 Grad 2 Fall 5: 0 Grad 2 Fall 6: 0 Grad 2 Fall 7: 0 Grad 2 Fall 8: 0 Grad 2 Fall 9: 0
+Grad 3 Fall 1: 0 Grad 3 Fall 2: 0 Grad 3 Fall 3: 0 Grad 3 Fall 3: 0 Grad 4 Fall 1: 0 Grad 4 Fall 2: 0 Ausgleichsschritte: 0
+ Runtime1: 0ms
+vertices: 16384 edges: 16384 average degree: 2 
+Graph Empty vertices_in_the_cover: 7828 faktor: 1
+Grad 1 Fall 1: 636 Grad 1 Fall 2: 1928 Grad 1 Fall 3: 0 Grad 1 Fall 4: 0 Grad 1 Fall 5: 0 Grad 1 Fall 6: 2632 Grad 1 Fall 7: 0 Grad 1 Fall 8: 2164
+Grad 2 Fall 1: 0 Grad 2 Fall 2: 0 Grad 2 Fall 3: 0 Grad 2 Fall 4: 0 Grad 2 Fall 5: 0 Grad 2 Fall 6: 0 Grad 2 Fall 7: 0 Grad 2 Fall 8: 0 Grad 2 Fall 9: 0
+Grad 3 Fall 1: 0 Grad 3 Fall 2: 0 Grad 3 Fall 3: 0 Grad 3 Fall 3: 0 Grad 4 Fall 1: 0 Grad 4 Fall 2: 0 Ausgleichsschritte: 0
+ Runtime1: 0ms
+vertices: 1024 edges: 1536 average degree: 3 
+Graph Empty vertices_in_the_cover: 578 faktor: 1.19917
+Grad 1 Fall 1: 3 Grad 1 Fall 2: 199 Grad 1 Fall 3: 0 Grad 1 Fall 4: 0 Grad 1 Fall 5: 2 Grad 1 Fall 6: 42 Grad 1 Fall 7: 0 Grad 1 Fall 8: 198
+Grad 2 Fall 1: 0 Grad 2 Fall 2: 0 Grad 2 Fall 3: 0 Grad 2 Fall 4: 96 Grad 2 Fall 5: 1 Grad 2 Fall 6: 0 Grad 2 Fall 7: 0 Grad 2 Fall 8: 0 Grad 2 Fall 9: 0
+Grad 3 Fall 1: 0 Grad 3 Fall 2: 0 Grad 3 Fall 3: 0 Grad 3 Fall 3: 0 Grad 4 Fall 1: 0 Grad 4 Fall 2: 0 Ausgleichsschritte: 0
+ Runtime1: 0ms
+vertices: 2048 edges: 3072 average degree: 3 
+Graph Empty vertices_in_the_cover: 1122 faktor: 1.21429
+Grad 1 Fall 1: 3 Grad 1 Fall 2: 351 Grad 1 Fall 3: 0 Grad 1 Fall 4: 0 Grad 1 Fall 5: 1 Grad 1 Fall 6: 89 Grad 1 Fall 7: 0 Grad 1 Fall 8: 365
+Grad 2 Fall 1: 2 Grad 2 Fall 2: 1 Grad 2 Fall 3: 60 Grad 2 Fall 4: 183 Grad 2 Fall 5: 0 Grad 2 Fall 6: 0 Grad 2 Fall 7: 1 Grad 2 Fall 8: 0 Grad 2 Fall 9: 3
+Grad 3 Fall 1: 0 Grad 3 Fall 2: 0 Grad 3 Fall 3: 0 Grad 3 Fall 3: 0 Grad 4 Fall 1: 0 Grad 4 Fall 2: 0 Ausgleichsschritte: 0
+ Runtime1: 0ms
+vertices: 4096 edges: 6144 average degree: 3 
+Graph Empty vertices_in_the_cover: 2242 faktor: 1.18562
+Grad 1 Fall 1: 4 Grad 1 Fall 2: 755 Grad 1 Fall 3: 0 Grad 1 Fall 4: 0 Grad 1 Fall 5: 2 Grad 1 Fall 6: 214 Grad 1 Fall 7: 0 Grad 1 Fall 8: 793
+Grad 2 Fall 1: 1 Grad 2 Fall 2: 0 Grad 2 Fall 3: 44 Grad 2 Fall 4: 345 Grad 2 Fall 5: 0 Grad 2 Fall 6: 0 Grad 2 Fall 7: 1 Grad 2 Fall 8: 0 Grad 2 Fall 9: 0
+Grad 3 Fall 1: 0 Grad 3 Fall 2: 0 Grad 3 Fall 3: 0 Grad 3 Fall 3: 0 Grad 4 Fall 1: 0 Grad 4 Fall 2: 0 Ausgleichsschritte: 0
+ Runtime1: 0ms
+vertices: 8192 edges: 12288 average degree: 3 
+Graph Empty vertices_in_the_cover: 4406 faktor: 1.18792
+Grad 1 Fall 1: 2 Grad 1 Fall 2: 1463 Grad 1 Fall 3: 0 Grad 1 Fall 4: 0 Grad 1 Fall 5: 2 Grad 1 Fall 6: 424 Grad 1 Fall 7: 0 Grad 1 Fall 8: 1634
+Grad 2 Fall 1: 1 Grad 2 Fall 2: 1 Grad 2 Fall 3: 134 Grad 2 Fall 4: 681 Grad 2 Fall 5: 0 Grad 2 Fall 6: 1 Grad 2 Fall 7: 1 Grad 2 Fall 8: 0 Grad 2 Fall 9: 3
+Grad 3 Fall 1: 0 Grad 3 Fall 2: 0 Grad 3 Fall 3: 0 Grad 3 Fall 3: 0 Grad 4 Fall 1: 0 Grad 4 Fall 2: 0 Ausgleichsschritte: 0
+ Runtime1: 0ms
+vertices: 16384 edges: 24576 average degree: 3 
+Graph Empty vertices_in_the_cover: 8900 faktor: 1.19048
+Grad 1 Fall 1: 4 Grad 1 Fall 2: 2908 Grad 1 Fall 3: 0 Grad 1 Fall 4: 0 Grad 1 Fall 5: 2 Grad 1 Fall 6: 873 Grad 1 Fall 7: 0 Grad 1 Fall 8: 3241
+Grad 2 Fall 1: 3 Grad 2 Fall 2: 0 Grad 2 Fall 3: 267 Grad 2 Fall 4: 1369 Grad 2 Fall 5: 1 Grad 2 Fall 6: 0 Grad 2 Fall 7: 3 Grad 2 Fall 8: 0 Grad 2 Fall 9: 0
+Grad 3 Fall 1: 0 Grad 3 Fall 2: 0 Grad 3 Fall 3: 0 Grad 3 Fall 3: 0 Grad 4 Fall 1: 0 Grad 4 Fall 2: 0 Ausgleichsschritte: 0
+ Runtime1: 15ms
+vertices: 1024 edges: 2048 average degree: 4 
+Graph Empty vertices_in_the_cover: 518 faktor: 1.42308
+Grad 1 Fall 1: 0 Grad 1 Fall 2: 52 Grad 1 Fall 3: 0 Grad 1 Fall 4: 0 Grad 1 Fall 5: 1 Grad 1 Fall 6: 3 Grad 1 Fall 7: 0 Grad 1 Fall 8: 97
+Grad 2 Fall 1: 7 Grad 2 Fall 2: 1 Grad 2 Fall 3: 214 Grad 2 Fall 4: 97 Grad 2 Fall 5: 0 Grad 2 Fall 6: 5 Grad 2 Fall 7: 13 Grad 2 Fall 8: 0 Grad 2 Fall 9: 2
+Grad 3 Fall 1: 0 Grad 3 Fall 2: 0 Grad 3 Fall 3: 0 Grad 3 Fall 3: 5 Grad 4 Fall 1: 0 Grad 4 Fall 2: 0 Ausgleichsschritte: 0
+ Runtime1: 0ms
+vertices: 2048 edges: 4096 average degree: 4 
+Graph Empty vertices_in_the_cover: 1015 faktor: 1.41365
+Grad 1 Fall 1: 0 Grad 1 Fall 2: 115 Grad 1 Fall 3: 0 Grad 1 Fall 4: 0 Grad 1 Fall 5: 2 Grad 1 Fall 6: 16 Grad 1 Fall 7: 0 Grad 1 Fall 8: 185
+Grad 2 Fall 1: 4 Grad 2 Fall 2: 1 Grad 2 Fall 3: 414 Grad 2 Fall 4: 199 Grad 2 Fall 5: 0 Grad 2 Fall 6: 3 Grad 2 Fall 7: 21 Grad 2 Fall 8: 0 Grad 2 Fall 9: 5
+Grad 3 Fall 1: 0 Grad 3 Fall 2: 0 Grad 3 Fall 3: 1 Grad 3 Fall 3: 18 Grad 4 Fall 1: 0 Grad 4 Fall 2: 0 Ausgleichsschritte: 0
+ Runtime1: 0ms
+vertices: 4096 edges: 8192 average degree: 4 
+Graph Empty vertices_in_the_cover: 1961 faktor: 1.42515
+Grad 1 Fall 1: 1 Grad 1 Fall 2: 214 Grad 1 Fall 3: 0 Grad 1 Fall 4: 0 Grad 1 Fall 5: 5 Grad 1 Fall 6: 29 Grad 1 Fall 7: 0 Grad 1 Fall 8: 393
+Grad 2 Fall 1: 10 Grad 2 Fall 2: 0 Grad 2 Fall 3: 856 Grad 2 Fall 4: 410 Grad 2 Fall 5: 0 Grad 2 Fall 6: 1 Grad 2 Fall 7: 24 Grad 2 Fall 8: 0 Grad 2 Fall 9: 7
+Grad 3 Fall 1: 0 Grad 3 Fall 2: 0 Grad 3 Fall 3: 0 Grad 3 Fall 3: 44 Grad 4 Fall 1: 0 Grad 4 Fall 2: 0 Ausgleichsschritte: 0
+ Runtime1: 0ms
+vertices: 8192 edges: 16384 average degree: 4 
+Graph Empty vertices_in_the_cover: 3927 faktor: 1.44216
+Grad 1 Fall 1: 0 Grad 1 Fall 2: 424 Grad 1 Fall 3: 0 Grad 1 Fall 4: 0 Grad 1 Fall 5: 3 Grad 1 Fall 6: 45 Grad 1 Fall 7: 0 Grad 1 Fall 8: 786
+Grad 2 Fall 1: 8 Grad 2 Fall 2: 2 Grad 2 Fall 3: 1743 Grad 2 Fall 4: 861 Grad 2 Fall 5: 0 Grad 2 Fall 6: 4 Grad 2 Fall 7: 34 Grad 2 Fall 8: 0 Grad 2 Fall 9: 4
+Grad 3 Fall 1: 0 Grad 3 Fall 2: 2 Grad 3 Fall 3: 0 Grad 3 Fall 3: 81 Grad 4 Fall 1: 0 Grad 4 Fall 2: 0 Ausgleichsschritte: 0
+ Runtime1: 0ms
+vertices: 16384 edges: 32768 average degree: 4 
+Graph Empty vertices_in_the_cover: 7377 faktor: 1.46952
+Grad 1 Fall 1: 3 Grad 1 Fall 2: 651 Grad 1 Fall 3: 0 Grad 1 Fall 4: 0 Grad 1 Fall 5: 4 Grad 1 Fall 6: 96 Grad 1 Fall 7: 0 Grad 1 Fall 8: 1525
+Grad 2 Fall 1: 12 Grad 2 Fall 2: 1 Grad 2 Fall 3: 3797 Grad 2 Fall 4: 1653 Grad 2 Fall 5: 0 Grad 2 Fall 6: 4 Grad 2 Fall 7: 28 Grad 2 Fall 8: 0 Grad 2 Fall 9: 2
+Grad 3 Fall 1: 0 Grad 3 Fall 2: 5 Grad 3 Fall 3: 1 Grad 3 Fall 3: 250 Grad 4 Fall 1: 0 Grad 4 Fall 2: 0 Ausgleichsschritte: 0
+ Runtime1: 17ms
+vertices: 1024 edges: 2560 average degree: 5 
+Graph Empty vertices_in_the_cover: 419 faktor: 1.43003
+Grad 1 Fall 1: 1 Grad 1 Fall 2: 12 Grad 1 Fall 3: 0 Grad 1 Fall 4: 0 Grad 1 Fall 5: 2 Grad 1 Fall 6: 0 Grad 1 Fall 7: 0 Grad 1 Fall 8: 28
+Grad 2 Fall 1: 5 Grad 2 Fall 2: 0 Grad 2 Fall 3: 282 Grad 2 Fall 4: 62 Grad 2 Fall 5: 1 Grad 2 Fall 6: 0 Grad 2 Fall 7: 20 Grad 2 Fall 8: 0 Grad 2 Fall 9: 5
+Grad 3 Fall 1: 0 Grad 3 Fall 2: 5 Grad 3 Fall 3: 0 Grad 3 Fall 3: 42 Grad 4 Fall 1: 0 Grad 4 Fall 2: 0 Ausgleichsschritte: 0
+ Runtime1: 0ms
+vertices: 2048 edges: 5120 average degree: 5 
+Graph Empty vertices_in_the_cover: 837 faktor: 1.5163
+Grad 1 Fall 1: 2 Grad 1 Fall 2: 25 Grad 1 Fall 3: 0 Grad 1 Fall 4: 0 Grad 1 Fall 5: 0 Grad 1 Fall 6: 0 Grad 1 Fall 7: 0 Grad 1 Fall 8: 65
+Grad 2 Fall 1: 12 Grad 2 Fall 2: 0 Grad 2 Fall 3: 586 Grad 2 Fall 4: 139 Grad 2 Fall 5: 0 Grad 2 Fall 6: 2 Grad 2 Fall 7: 16 Grad 2 Fall 8: 0 Grad 2 Fall 9: 3
+Grad 3 Fall 1: 0 Grad 3 Fall 2: 5 Grad 3 Fall 3: 1 Grad 3 Fall 3: 99 Grad 4 Fall 1: 0 Grad 4 Fall 2: 0 Ausgleichsschritte: 0
+ Runtime1: 1ms
+vertices: 4096 edges: 10240 average degree: 5 
+Graph Empty vertices_in_the_cover: 1426 faktor: 1.55
+Grad 1 Fall 1: 0 Grad 1 Fall 2: 30 Grad 1 Fall 3: 0 Grad 1 Fall 4: 0 Grad 1 Fall 5: 1 Grad 1 Fall 6: 5 Grad 1 Fall 7: 0 Grad 1 Fall 8: 111
+Grad 2 Fall 1: 14 Grad 2 Fall 2: 0 Grad 2 Fall 3: 1280 Grad 2 Fall 4: 240 Grad 2 Fall 5: 0 Grad 2 Fall 6: 3 Grad 2 Fall 7: 21 Grad 2 Fall 8: 0 Grad 2 Fall 9: 2
+Grad 3 Fall 1: 0 Grad 3 Fall 2: 6 Grad 3 Fall 3: 1 Grad 3 Fall 3: 225 Grad 4 Fall 1: 0 Grad 4 Fall 2: 0 Ausgleichsschritte: 0
+ Runtime1: 4ms
+vertices: 8192 edges: 20480 average degree: 5 
+Graph Empty vertices_in_the_cover: 2850 faktor: 1.58686
+Grad 1 Fall 1: 1 Grad 1 Fall 2: 62 Grad 1 Fall 3: 0 Grad 1 Fall 4: 0 Grad 1 Fall 5: 1 Grad 1 Fall 6: 2 Grad 1 Fall 7: 0 Grad 1 Fall 8: 251
+Grad 2 Fall 1: 12 Grad 2 Fall 2: 0 Grad 2 Fall 3: 2578 Grad 2 Fall 4: 491 Grad 2 Fall 5: 0 Grad 2 Fall 6: 7 Grad 2 Fall 7: 37 Grad 2 Fall 8: 0 Grad 2 Fall 9: 7
+Grad 3 Fall 1: 0 Grad 3 Fall 2: 2 Grad 3 Fall 3: 0 Grad 3 Fall 3: 467 Grad 4 Fall 1: 0 Grad 4 Fall 2: 0 Ausgleichsschritte: 0
+ Runtime1: 10ms
+vertices: 16384 edges: 40960 average degree: 5 
+Graph Empty vertices_in_the_cover: 5317 faktor: 1.60102
+Grad 1 Fall 1: 0 Grad 1 Fall 2: 99 Grad 1 Fall 3: 0 Grad 1 Fall 4: 0 Grad 1 Fall 5: 1 Grad 1 Fall 6: 13 Grad 1 Fall 7: 0 Grad 1 Fall 8: 511
+Grad 2 Fall 1: 14 Grad 2 Fall 2: 0 Grad 2 Fall 3: 5212 Grad 2 Fall 4: 997 Grad 2 Fall 5: 0 Grad 2 Fall 6: 4 Grad 2 Fall 7: 46 Grad 2 Fall 8: 0 Grad 2 Fall 9: 2
+Grad 3 Fall 1: 0 Grad 3 Fall 2: 3 Grad 3 Fall 3: 1 Grad 3 Fall 3: 977 Grad 4 Fall 1: 0 Grad 4 Fall 2: 0 Ausgleichsschritte: 0
+ Runtime1: 28ms
+vertices: 1024 edges: 3072 average degree: 6 
+Graph Empty vertices_in_the_cover: 353 faktor: 1.44672
+Grad 1 Fall 1: 1 Grad 1 Fall 2: 8 Grad 1 Fall 3: 0 Grad 1 Fall 4: 0 Grad 1 Fall 5: 0 Grad 1 Fall 6: 0 Grad 1 Fall 7: 0 Grad 1 Fall 8: 7
+Grad 2 Fall 1: 4 Grad 2 Fall 2: 0 Grad 2 Fall 3: 303 Grad 2 Fall 4: 38 Grad 2 Fall 5: 0 Grad 2 Fall 6: 3 Grad 2 Fall 7: 16 Grad 2 Fall 8: 0 Grad 2 Fall 9: 2
+Grad 3 Fall 1: 0 Grad 3 Fall 2: 4 Grad 3 Fall 3: 0 Grad 3 Fall 3: 82 Grad 4 Fall 1: 0 Grad 4 Fall 2: 0 Ausgleichsschritte: 0
+ Runtime1: 0ms
+vertices: 2048 edges: 6144 average degree: 6 
+Graph Empty vertices_in_the_cover: 646 faktor: 1.55288
+Grad 1 Fall 1: 0 Grad 1 Fall 2: 23 Grad 1 Fall 3: 0 Grad 1 Fall 4: 0 Grad 1 Fall 5: 2 Grad 1 Fall 6: 0 Grad 1 Fall 7: 0 Grad 1 Fall 8: 17
+Grad 2 Fall 1: 3 Grad 2 Fall 2: 0 Grad 2 Fall 3: 643 Grad 2 Fall 4: 69 Grad 2 Fall 5: 0 Grad 2 Fall 6: 2 Grad 2 Fall 7: 13 Grad 2 Fall 8: 0 Grad 2 Fall 9: 3
+Grad 3 Fall 1: 0 Grad 3 Fall 2: 3 Grad 3 Fall 3: 0 Grad 3 Fall 3: 185 Grad 4 Fall 1: 0 Grad 4 Fall 2: 0 Ausgleichsschritte: 0
+ Runtime1: 2ms
+vertices: 4096 edges: 12288 average degree: 6 
+Graph Empty vertices_in_the_cover: 1126 faktor: 1.61549
+Grad 1 Fall 1: 0 Grad 1 Fall 2: 15 Grad 1 Fall 3: 0 Grad 1 Fall 4: 0 Grad 1 Fall 5: 2 Grad 1 Fall 6: 1 Grad 1 Fall 7: 0 Grad 1 Fall 8: 31
+Grad 2 Fall 1: 6 Grad 2 Fall 2: 0 Grad 2 Fall 3: 1340 Grad 2 Fall 4: 138 Grad 2 Fall 5: 0 Grad 2 Fall 6: 4 Grad 2 Fall 7: 17 Grad 2 Fall 8: 0 Grad 2 Fall 9: 5
+Grad 3 Fall 1: 0 Grad 3 Fall 2: 2 Grad 3 Fall 3: 2 Grad 3 Fall 3: 390 Grad 4 Fall 1: 0 Grad 4 Fall 2: 0 Ausgleichsschritte: 0
+ Runtime1: 8ms
+vertices: 8192 edges: 24576 average degree: 6 
+Graph Empty vertices_in_the_cover: 2020 faktor: 1.60828
+Grad 1 Fall 1: 1 Grad 1 Fall 2: 41 Grad 1 Fall 3: 0 Grad 1 Fall 4: 0 Grad 1 Fall 5: 1 Grad 1 Fall 6: 0 Grad 1 Fall 7: 0 Grad 1 Fall 8: 78
+Grad 2 Fall 1: 9 Grad 2 Fall 2: 0 Grad 2 Fall 3: 2712 Grad 2 Fall 4: 252 Grad 2 Fall 5: 0 Grad 2 Fall 6: 1 Grad 2 Fall 7: 38 Grad 2 Fall 8: 0 Grad 2 Fall 9: 4
+Grad 3 Fall 1: 0 Grad 3 Fall 2: 8 Grad 3 Fall 3: 1 Grad 3 Fall 3: 796 Grad 4 Fall 1: 0 Grad 4 Fall 2: 0 Ausgleichsschritte: 0
+ Runtime1: 10ms
+vertices: 16384 edges: 49152 average degree: 6 
+Graph Empty vertices_in_the_cover: 3797 faktor: 1.66828
+Grad 1 Fall 1: 1 Grad 1 Fall 2: 31 Grad 1 Fall 3: 0 Grad 1 Fall 4: 0 Grad 1 Fall 5: 1 Grad 1 Fall 6: 2 Grad 1 Fall 7: 0 Grad 1 Fall 8: 145
+Grad 2 Fall 1: 5 Grad 2 Fall 2: 0 Grad 2 Fall 3: 5542 Grad 2 Fall 4: 504 Grad 2 Fall 5: 0 Grad 2 Fall 6: 8 Grad 2 Fall 7: 43 Grad 2 Fall 8: 0 Grad 2 Fall 9: 3
+Grad 3 Fall 1: 0 Grad 3 Fall 2: 5 Grad 3 Fall 3: 1 Grad 3 Fall 3: 1654 Grad 4 Fall 1: 0 Grad 4 Fall 2: 0 Ausgleichsschritte: 0
+ Runtime1: 28ms
+vertices: 1024 edges: 3584 average degree: 7 
+Graph Empty vertices_in_the_cover: 356 faktor: 1.47107
+Grad 1 Fall 1: 1 Grad 1 Fall 2: 8 Grad 1 Fall 3: 0 Grad 1 Fall 4: 0 Grad 1 Fall 5: 0 Grad 1 Fall 6: 0 Grad 1 Fall 7: 0 Grad 1 Fall 8: 5
+Grad 2 Fall 1: 4 Grad 2 Fall 2: 0 Grad 2 Fall 3: 287 Grad 2 Fall 4: 15 Grad 2 Fall 5: 0 Grad 2 Fall 6: 0 Grad 2 Fall 7: 15 Grad 2 Fall 8: 0 Grad 2 Fall 9: 4
+Grad 3 Fall 1: 0 Grad 3 Fall 2: 3 Grad 3 Fall 3: 1 Grad 3 Fall 3: 123 Grad 4 Fall 1: 0 Grad 4 Fall 2: 0 Ausgleichsschritte: 0
+ Runtime1: 0ms
+vertices: 2048 edges: 7168 average degree: 7 
+Graph Empty vertices_in_the_cover: 561 faktor: 1.50402
+Grad 1 Fall 1: 1 Grad 1 Fall 2: 11 Grad 1 Fall 3: 0 Grad 1 Fall 4: 0 Grad 1 Fall 5: 1 Grad 1 Fall 6: 0 Grad 1 Fall 7: 0 Grad 1 Fall 8: 7
+Grad 2 Fall 1: 5 Grad 2 Fall 2: 0 Grad 2 Fall 3: 624 Grad 2 Fall 4: 32 Grad 2 Fall 5: 0 Grad 2 Fall 6: 2 Grad 2 Fall 7: 25 Grad 2 Fall 8: 0 Grad 2 Fall 9: 5
+Grad 3 Fall 1: 0 Grad 3 Fall 2: 3 Grad 3 Fall 3: 0 Grad 3 Fall 3: 243 Grad 4 Fall 1: 0 Grad 4 Fall 2: 0 Ausgleichsschritte: 0
+ Runtime1: 0ms
+vertices: 4096 edges: 14336 average degree: 7 
+Graph Empty vertices_in_the_cover: 892 faktor: 1.58437
+Grad 1 Fall 1: 0 Grad 1 Fall 2: 11 Grad 1 Fall 3: 0 Grad 1 Fall 4: 0 Grad 1 Fall 5: 0 Grad 1 Fall 6: 0 Grad 1 Fall 7: 0 Grad 1 Fall 8: 12
+Grad 2 Fall 1: 10 Grad 2 Fall 2: 0 Grad 2 Fall 3: 1304 Grad 2 Fall 4: 53 Grad 2 Fall 5: 0 Grad 2 Fall 6: 2 Grad 2 Fall 7: 30 Grad 2 Fall 8: 0 Grad 2 Fall 9: 3
+Grad 3 Fall 1: 0 Grad 3 Fall 2: 5 Grad 3 Fall 3: 1 Grad 3 Fall 3: 534 Grad 4 Fall 1: 0 Grad 4 Fall 2: 0 Ausgleichsschritte: 0
+ Runtime1: 10ms
+vertices: 8192 edges: 28672 average degree: 7 
+Graph Empty vertices_in_the_cover: 1558 faktor: 1.64868
+Grad 1 Fall 1: 1 Grad 1 Fall 2: 13 Grad 1 Fall 3: 0 Grad 1 Fall 4: 0 Grad 1 Fall 5: 0 Grad 1 Fall 6: 0 Grad 1 Fall 7: 0 Grad 1 Fall 8: 22
+Grad 2 Fall 1: 10 Grad 2 Fall 2: 0 Grad 2 Fall 3: 2654 Grad 2 Fall 4: 119 Grad 2 Fall 5: 0 Grad 2 Fall 6: 4 Grad 2 Fall 7: 32 Grad 2 Fall 8: 0 Grad 2 Fall 9: 2
+Grad 3 Fall 1: 0 Grad 3 Fall 2: 5 Grad 3 Fall 3: 0 Grad 3 Fall 3: 1120 Grad 4 Fall 1: 0 Grad 4 Fall 2: 0 Ausgleichsschritte: 0
+ Runtime1: 10ms
+vertices: 16384 edges: 57344 average degree: 7 
+Graph Empty vertices_in_the_cover: 2784 faktor: 1.70484
+Grad 1 Fall 1: 0 Grad 1 Fall 2: 30 Grad 1 Fall 3: 0 Grad 1 Fall 4: 0 Grad 1 Fall 5: 1 Grad 1 Fall 6: 0 Grad 1 Fall 7: 0 Grad 1 Fall 8: 33
+Grad 2 Fall 1: 6 Grad 2 Fall 2: 0 Grad 2 Fall 3: 5427 Grad 2 Fall 4: 222 Grad 2 Fall 5: 0 Grad 2 Fall 6: 2 Grad 2 Fall 7: 47 Grad 2 Fall 8: 0 Grad 2 Fall 9: 2
+Grad 3 Fall 1: 0 Grad 3 Fall 2: 5 Grad 3 Fall 3: 1 Grad 3 Fall 3: 2243 Grad 4 Fall 1: 0 Grad 4 Fall 2: 0 Ausgleichsschritte: 0
+ Runtime1: 40ms
+vertices: 1024 edges: 4096 average degree: 8 
+Graph Empty vertices_in_the_cover: 361 faktor: 1.41016
+Grad 1 Fall 1: 0 Grad 1 Fall 2: 15 Grad 1 Fall 3: 0 Grad 1 Fall 4: 0 Grad 1 Fall 5: 0 Grad 1 Fall 6: 0 Grad 1 Fall 7: 0 Grad 1 Fall 8: 1
+Grad 2 Fall 1: 3 Grad 2 Fall 2: 0 Grad 2 Fall 3: 262 Grad 2 Fall 4: 5 Grad 2 Fall 5: 0 Grad 2 Fall 6: 3 Grad 2 Fall 7: 19 Grad 2 Fall 8: 0 Grad 2 Fall 9: 2
+Grad 3 Fall 1: 0 Grad 3 Fall 2: 4 Grad 3 Fall 3: 1 Grad 3 Fall 3: 145 Grad 4 Fall 1: 0 Grad 4 Fall 2: 0 Ausgleichsschritte: 0
+ Runtime1: 0ms
+vertices: 2048 edges: 8192 average degree: 8 
+Graph Empty vertices_in_the_cover: 498 faktor: 1.48214
+Grad 1 Fall 1: 1 Grad 1 Fall 2: 13 Grad 1 Fall 3: 0 Grad 1 Fall 4: 0 Grad 1 Fall 5: 0 Grad 1 Fall 6: 0 Grad 1 Fall 7: 0 Grad 1 Fall 8: 0
+Grad 2 Fall 1: 6 Grad 2 Fall 2: 0 Grad 2 Fall 3: 586 Grad 2 Fall 4: 11 Grad 2 Fall 5: 0 Grad 2 Fall 6: 1 Grad 2 Fall 7: 22 Grad 2 Fall 8: 0 Grad 2 Fall 9: 4
+Grad 3 Fall 1: 0 Grad 3 Fall 2: 5 Grad 3 Fall 3: 0 Grad 3 Fall 3: 312 Grad 4 Fall 1: 0 Grad 4 Fall 2: 0 Ausgleichsschritte: 0
+ Runtime1: 8ms
+vertices: 4096 edges: 16384 average degree: 8 
+Graph Empty vertices_in_the_cover: 832 faktor: 1.56098
+Grad 1 Fall 1: 0 Grad 1 Fall 2: 8 Grad 1 Fall 3: 0 Grad 1 Fall 4: 0 Grad 1 Fall 5: 0 Grad 1 Fall 6: 0 Grad 1 Fall 7: 0 Grad 1 Fall 8: 8
+Grad 2 Fall 1: 10 Grad 2 Fall 2: 0 Grad 2 Fall 3: 1244 Grad 2 Fall 4: 15 Grad 2 Fall 5: 0 Grad 2 Fall 6: 3 Grad 2 Fall 7: 30 Grad 2 Fall 8: 0 Grad 2 Fall 9: 2
+Grad 3 Fall 1: 0 Grad 3 Fall 2: 7 Grad 3 Fall 3: 2 Grad 3 Fall 3: 636 Grad 4 Fall 1: 0 Grad 4 Fall 2: 0 Ausgleichsschritte: 0
+ Runtime1: 10ms
+vertices: 8192 edges: 32768 average degree: 8 
+Graph Empty vertices_in_the_cover: 1351 faktor: 1.66175
+Grad 1 Fall 1: 1 Grad 1 Fall 2: 28 Grad 1 Fall 3: 0 Grad 1 Fall 4: 0 Grad 1 Fall 5: 0 Grad 1 Fall 6: 0 Grad 1 Fall 7: 0 Grad 1 Fall 8: 6
+Grad 2 Fall 1: 11 Grad 2 Fall 2: 0 Grad 2 Fall 3: 2541 Grad 2 Fall 4: 51 Grad 2 Fall 5: 0 Grad 2 Fall 6: 1 Grad 2 Fall 7: 33 Grad 2 Fall 8: 0 Grad 2 Fall 9: 2
+Grad 3 Fall 1: 0 Grad 3 Fall 2: 3 Grad 3 Fall 3: 0 Grad 3 Fall 3: 1325 Grad 4 Fall 1: 0 Grad 4 Fall 2: 0 Ausgleichsschritte: 0
+ Runtime1: 18ms
+vertices: 16384 edges: 65536 average degree: 8 
+Graph Empty vertices_in_the_cover: 2252 faktor: 1.70995
+Grad 1 Fall 1: 1 Grad 1 Fall 2: 25 Grad 1 Fall 3: 0 Grad 1 Fall 4: 0 Grad 1 Fall 5: 0 Grad 1 Fall 6: 0 Grad 1 Fall 7: 0 Grad 1 Fall 8: 13
+Grad 2 Fall 1: 11 Grad 2 Fall 2: 0 Grad 2 Fall 3: 5201 Grad 2 Fall 4: 91 Grad 2 Fall 5: 0 Grad 2 Fall 6: 3 Grad 2 Fall 7: 50 Grad 2 Fall 8: 0 Grad 2 Fall 9: 6
+Grad 3 Fall 1: 0 Grad 3 Fall 2: 6 Grad 3 Fall 3: 0 Grad 3 Fall 3: 2655 Grad 4 Fall 1: 0 Grad 4 Fall 2: 0 Ausgleichsschritte: 0
+ Runtime1: 40ms
+vertices: 1024 edges: 4608 average degree: 9 
+Graph Empty vertices_in_the_cover: 433 faktor: 1.40129
+Grad 1 Fall 1: 1 Grad 1 Fall 2: 18 Grad 1 Fall 3: 0 Grad 1 Fall 4: 0 Grad 1 Fall 5: 0 Grad 1 Fall 6: 0 Grad 1 Fall 7: 0 Grad 1 Fall 8: 0
+Grad 2 Fall 1: 2 Grad 2 Fall 2: 0 Grad 2 Fall 3: 232 Grad 2 Fall 4: 1 Grad 2 Fall 5: 0 Grad 2 Fall 6: 2 Grad 2 Fall 7: 28 Grad 2 Fall 8: 0 Grad 2 Fall 9: 5
+Grad 3 Fall 1: 0 Grad 3 Fall 2: 7 Grad 3 Fall 3: 1 Grad 3 Fall 3: 146 Grad 4 Fall 1: 0 Grad 4 Fall 2: 5 Ausgleichsschritte: 0
+ Runtime1: 0ms
+vertices: 2048 edges: 9216 average degree: 9 
+Graph Empty vertices_in_the_cover: 557 faktor: 1.47745
+Grad 1 Fall 1: 0 Grad 1 Fall 2: 17 Grad 1 Fall 3: 0 Grad 1 Fall 4: 0 Grad 1 Fall 5: 0 Grad 1 Fall 6: 0 Grad 1 Fall 7: 0 Grad 1 Fall 8: 1
+Grad 2 Fall 1: 4 Grad 2 Fall 2: 0 Grad 2 Fall 3: 547 Grad 2 Fall 4: 7 Grad 2 Fall 5: 1 Grad 2 Fall 6: 0 Grad 2 Fall 7: 23 Grad 2 Fall 8: 0 Grad 2 Fall 9: 2
+Grad 3 Fall 1: 0 Grad 3 Fall 2: 8 Grad 3 Fall 3: 1 Grad 3 Fall 3: 322 Grad 4 Fall 1: 1 Grad 4 Fall 2: 17 Ausgleichsschritte: 0
+ Runtime1: 0ms
+vertices: 4096 edges: 18432 average degree: 9 
+Graph Empty vertices_in_the_cover: 865 faktor: 1.54189
+Grad 1 Fall 1: 0 Grad 1 Fall 2: 12 Grad 1 Fall 3: 0 Grad 1 Fall 4: 0 Grad 1 Fall 5: 1 Grad 1 Fall 6: 0 Grad 1 Fall 7: 0 Grad 1 Fall 8: 2
+Grad 2 Fall 1: 6 Grad 2 Fall 2: 0 Grad 2 Fall 3: 1171 Grad 2 Fall 4: 13 Grad 2 Fall 5: 0 Grad 2 Fall 6: 2 Grad 2 Fall 7: 35 Grad 2 Fall 8: 0 Grad 2 Fall 9: 3
+Grad 3 Fall 1: 0 Grad 3 Fall 2: 5 Grad 3 Fall 3: 0 Grad 3 Fall 3: 668 Grad 4 Fall 1: 0 Grad 4 Fall 2: 35 Ausgleichsschritte: 0
+ Runtime1: 10ms
+vertices: 8192 edges: 36864 average degree: 9 
+Graph Empty vertices_in_the_cover: 1238 faktor: 1.6573
+Grad 1 Fall 1: 0 Grad 1 Fall 2: 19 Grad 1 Fall 3: 0 Grad 1 Fall 4: 0 Grad 1 Fall 5: 1 Grad 1 Fall 6: 0 Grad 1 Fall 7: 0 Grad 1 Fall 8: 1
+Grad 2 Fall 1: 5 Grad 2 Fall 2: 0 Grad 2 Fall 3: 2445 Grad 2 Fall 4: 20 Grad 2 Fall 5: 0 Grad 2 Fall 6: 2 Grad 2 Fall 7: 33 Grad 2 Fall 8: 0 Grad 2 Fall 9: 5
+Grad 3 Fall 1: 0 Grad 3 Fall 2: 8 Grad 3 Fall 3: 2 Grad 3 Fall 3: 1414 Grad 4 Fall 1: 0 Grad 4 Fall 2: 48 Ausgleichsschritte: 0
+ Runtime1: 30ms
+vertices: 16384 edges: 73728 average degree: 9 
+Graph Empty vertices_in_the_cover: 2048 faktor: 1.72536
+Grad 1 Fall 1: 1 Grad 1 Fall 2: 11 Grad 1 Fall 3: 0 Grad 1 Fall 4: 0 Grad 1 Fall 5: 1 Grad 1 Fall 6: 0 Grad 1 Fall 7: 0 Grad 1 Fall 8: 5
+Grad 2 Fall 1: 8 Grad 2 Fall 2: 0 Grad 2 Fall 3: 4912 Grad 2 Fall 4: 53 Grad 2 Fall 5: 0 Grad 2 Fall 6: 2 Grad 2 Fall 7: 45 Grad 2 Fall 8: 0 Grad 2 Fall 9: 5
+Grad 3 Fall 1: 0 Grad 3 Fall 2: 2 Grad 3 Fall 3: 0 Grad 3 Fall 3: 2886 Grad 4 Fall 1: 0 Grad 4 Fall 2: 135 Ausgleichsschritte: 0
+ Runtime1: 62ms
+vertices: 1024 edges: 5120 average degree: 10 
+Graph Empty vertices_in_the_cover: 398 faktor: 1.38676
+Grad 1 Fall 1: 0 Grad 1 Fall 2: 18 Grad 1 Fall 3: 0 Grad 1 Fall 4: 0 Grad 1 Fall 5: 0 Grad 1 Fall 6: 0 Grad 1 Fall 7: 0 Grad 1 Fall 8: 0
+Grad 2 Fall 1: 1 Grad 2 Fall 2: 0 Grad 2 Fall 3: 220 Grad 2 Fall 4: 2 Grad 2 Fall 5: 1 Grad 2 Fall 6: 4 Grad 2 Fall 7: 23 Grad 2 Fall 8: 0 Grad 2 Fall 9: 2
+Grad 3 Fall 1: 0 Grad 3 Fall 2: 5 Grad 3 Fall 3: 0 Grad 3 Fall 3: 149 Grad 4 Fall 1: 3 Grad 4 Fall 2: 23 Ausgleichsschritte: 0
+ Runtime1: 8ms
+vertices: 2048 edges: 10240 average degree: 10 
+Graph Empty vertices_in_the_cover: 560 faktor: 1.45455
+Grad 1 Fall 1: 0 Grad 1 Fall 2: 21 Grad 1 Fall 3: 0 Grad 1 Fall 4: 0 Grad 1 Fall 5: 0 Grad 1 Fall 6: 0 Grad 1 Fall 7: 0 Grad 1 Fall 8: 0
+Grad 2 Fall 1: 4 Grad 2 Fall 2: 0 Grad 2 Fall 3: 513 Grad 2 Fall 4: 2 Grad 2 Fall 5: 0 Grad 2 Fall 6: 1 Grad 2 Fall 7: 23 Grad 2 Fall 8: 0 Grad 2 Fall 9: 1
+Grad 3 Fall 1: 0 Grad 3 Fall 2: 7 Grad 3 Fall 3: 1 Grad 3 Fall 3: 317 Grad 4 Fall 1: 2 Grad 4 Fall 2: 58 Ausgleichsschritte: 0
+ Runtime1: 10ms
+vertices: 4096 edges: 20480 average degree: 10 
+Graph Empty vertices_in_the_cover: 720 faktor: 1.53518
+Grad 1 Fall 1: 0 Grad 1 Fall 2: 16 Grad 1 Fall 3: 0 Grad 1 Fall 4: 0 Grad 1 Fall 5: 0 Grad 1 Fall 6: 0 Grad 1 Fall 7: 0 Grad 1 Fall 8: 0
+Grad 2 Fall 1: 6 Grad 2 Fall 2: 0 Grad 2 Fall 3: 1097 Grad 2 Fall 4: 3 Grad 2 Fall 5: 0 Grad 2 Fall 6: 0 Grad 2 Fall 7: 24 Grad 2 Fall 8: 0 Grad 2 Fall 9: 2
+Grad 3 Fall 1: 0 Grad 3 Fall 2: 4 Grad 3 Fall 3: 1 Grad 3 Fall 3: 695 Grad 4 Fall 1: 1 Grad 4 Fall 2: 116 Ausgleichsschritte: 0
+ Runtime1: 10ms
+vertices: 8192 edges: 40960 average degree: 10 
+Graph Empty vertices_in_the_cover: 1186 faktor: 1.60054
+Grad 1 Fall 1: 0 Grad 1 Fall 2: 26 Grad 1 Fall 3: 0 Grad 1 Fall 4: 0 Grad 1 Fall 5: 0 Grad 1 Fall 6: 0 Grad 1 Fall 7: 0 Grad 1 Fall 8: 0
+Grad 2 Fall 1: 8 Grad 2 Fall 2: 0 Grad 2 Fall 3: 2279 Grad 2 Fall 4: 8 Grad 2 Fall 5: 1 Grad 2 Fall 6: 2 Grad 2 Fall 7: 35 Grad 2 Fall 8: 0 Grad 2 Fall 9: 1
+Grad 3 Fall 1: 0 Grad 3 Fall 2: 6 Grad 3 Fall 3: 0 Grad 3 Fall 3: 1413 Grad 4 Fall 1: 2 Grad 4 Fall 2: 208 Ausgleichsschritte: 0
+ Runtime1: 32ms
+vertices: 16384 edges: 81920 average degree: 10 
+Graph Empty vertices_in_the_cover: 1846 faktor: 1.7061
+Grad 1 Fall 1: 2 Grad 1 Fall 2: 22 Grad 1 Fall 3: 0 Grad 1 Fall 4: 0 Grad 1 Fall 5: 0 Grad 1 Fall 6: 0 Grad 1 Fall 7: 0 Grad 1 Fall 8: 3
+Grad 2 Fall 1: 15 Grad 2 Fall 2: 0 Grad 2 Fall 3: 4658 Grad 2 Fall 4: 18 Grad 2 Fall 5: 0 Grad 2 Fall 6: 2 Grad 2 Fall 7: 49 Grad 2 Fall 8: 0 Grad 2 Fall 9: 3
+Grad 3 Fall 1: 0 Grad 3 Fall 2: 5 Grad 3 Fall 3: 0 Grad 3 Fall 3: 2826 Grad 4 Fall 1: 2 Grad 4 Fall 2: 481 Ausgleichsschritte: 0
+ Runtime1: 70ms
+vertices: 1024 edges: 5632 average degree: 11 
+Graph Empty vertices_in_the_cover: 447 faktor: 1.40125
+Grad 1 Fall 1: 0 Grad 1 Fall 2: 18 Grad 1 Fall 3: 0 Grad 1 Fall 4: 0 Grad 1 Fall 5: 0 Grad 1 Fall 6: 0 Grad 1 Fall 7: 0 Grad 1 Fall 8: 0
+Grad 2 Fall 1: 6 Grad 2 Fall 2: 0 Grad 2 Fall 3: 208 Grad 2 Fall 4: 0 Grad 2 Fall 5: 0 Grad 2 Fall 6: 2 Grad 2 Fall 7: 20 Grad 2 Fall 8: 0 Grad 2 Fall 9: 1
+Grad 3 Fall 1: 0 Grad 3 Fall 2: 6 Grad 3 Fall 3: 0 Grad 3 Fall 3: 137 Grad 4 Fall 1: 2 Grad 4 Fall 2: 40 Ausgleichsschritte: 3
+ Runtime1: 2ms
+vertices: 2048 edges: 11264 average degree: 11 
+Graph Empty vertices_in_the_cover: 657 faktor: 1.43137
+Grad 1 Fall 1: 1 Grad 1 Fall 2: 17 Grad 1 Fall 3: 0 Grad 1 Fall 4: 0 Grad 1 Fall 5: 0 Grad 1 Fall 6: 0 Grad 1 Fall 7: 0 Grad 1 Fall 8: 0
+Grad 2 Fall 1: 3 Grad 2 Fall 2: 0 Grad 2 Fall 3: 467 Grad 2 Fall 4: 0 Grad 2 Fall 5: 0 Grad 2 Fall 6: 0 Grad 2 Fall 7: 33 Grad 2 Fall 8: 0 Grad 2 Fall 9: 3
+Grad 3 Fall 1: 0 Grad 3 Fall 2: 8 Grad 3 Fall 3: 0 Grad 3 Fall 3: 305 Grad 4 Fall 1: 6 Grad 4 Fall 2: 80 Ausgleichsschritte: 0
+ Runtime1: 0ms
+vertices: 4096 edges: 22528 average degree: 11 
+Graph Empty vertices_in_the_cover: 866 faktor: 1.53004
+Grad 1 Fall 1: 0 Grad 1 Fall 2: 15 Grad 1 Fall 3: 0 Grad 1 Fall 4: 0 Grad 1 Fall 5: 1 Grad 1 Fall 6: 0 Grad 1 Fall 7: 0 Grad 1 Fall 8: 0
+Grad 2 Fall 1: 6 Grad 2 Fall 2: 0 Grad 2 Fall 3: 1037 Grad 2 Fall 4: 0 Grad 2 Fall 5: 0 Grad 2 Fall 6: 1 Grad 2 Fall 7: 28 Grad 2 Fall 8: 0 Grad 2 Fall 9: 3
+Grad 3 Fall 1: 0 Grad 3 Fall 2: 7 Grad 3 Fall 3: 0 Grad 3 Fall 3: 651 Grad 4 Fall 1: 0 Grad 4 Fall 2: 193 Ausgleichsschritte: 0
+ Runtime1: 12ms
+vertices: 8192 edges: 45056 average degree: 11 
+Graph Empty vertices_in_the_cover: 1201 faktor: 1.60776
+Grad 1 Fall 1: 0 Grad 1 Fall 2: 9 Grad 1 Fall 3: 0 Grad 1 Fall 4: 0 Grad 1 Fall 5: 0 Grad 1 Fall 6: 0 Grad 1 Fall 7: 0 Grad 1 Fall 8: 0
+Grad 2 Fall 1: 6 Grad 2 Fall 2: 0 Grad 2 Fall 3: 2129 Grad 2 Fall 4: 4 Grad 2 Fall 5: 0 Grad 2 Fall 6: 3 Grad 2 Fall 7: 32 Grad 2 Fall 8: 0 Grad 2 Fall 9: 2
+Grad 3 Fall 1: 1 Grad 3 Fall 2: 8 Grad 3 Fall 3: 1 Grad 3 Fall 3: 1382 Grad 4 Fall 1: 2 Grad 4 Fall 2: 401 Ausgleichsschritte: 0
+ Runtime1: 30ms
+vertices: 16384 edges: 90112 average degree: 11 
+Graph Empty vertices_in_the_cover: 1889 faktor: 1.67911
+Grad 1 Fall 1: 2 Grad 1 Fall 2: 21 Grad 1 Fall 3: 0 Grad 1 Fall 4: 0 Grad 1 Fall 5: 0 Grad 1 Fall 6: 0 Grad 1 Fall 7: 0 Grad 1 Fall 8: 2
+Grad 2 Fall 1: 7 Grad 2 Fall 2: 0 Grad 2 Fall 3: 4386 Grad 2 Fall 4: 8 Grad 2 Fall 5: 1 Grad 2 Fall 6: 1 Grad 2 Fall 7: 45 Grad 2 Fall 8: 0 Grad 2 Fall 9: 7
+Grad 3 Fall 1: 0 Grad 3 Fall 2: 8 Grad 3 Fall 3: 0 Grad 3 Fall 3: 2782 Grad 4 Fall 1: 1 Grad 4 Fall 2: 783 Ausgleichsschritte: 0
+ Runtime1: 80ms
+vertices: 1024 edges: 6144 average degree: 12 
+Graph Empty vertices_in_the_cover: 490 faktor: 1.50307
+Grad 1 Fall 1: 0 Grad 1 Fall 2: 5 Grad 1 Fall 3: 0 Grad 1 Fall 4: 0 Grad 1 Fall 5: 0 Grad 1 Fall 6: 0 Grad 1 Fall 7: 0 Grad 1 Fall 8: 0
+Grad 2 Fall 1: 2 Grad 2 Fall 2: 0 Grad 2 Fall 3: 201 Grad 2 Fall 4: 0 Grad 2 Fall 5: 0 Grad 2 Fall 6: 1 Grad 2 Fall 7: 19 Grad 2 Fall 8: 0 Grad 2 Fall 9: 1
+Grad 3 Fall 1: 1 Grad 3 Fall 2: 2 Grad 3 Fall 3: 0 Grad 3 Fall 3: 134 Grad 4 Fall 1: 4 Grad 4 Fall 2: 48 Ausgleichsschritte: 28
+ Runtime1: 0ms
+vertices: 2048 edges: 12288 average degree: 12 
+Graph Empty vertices_in_the_cover: 670 faktor: 1.51584
+Grad 1 Fall 1: 1 Grad 1 Fall 2: 11 Grad 1 Fall 3: 0 Grad 1 Fall 4: 0 Grad 1 Fall 5: 0 Grad 1 Fall 6: 0 Grad 1 Fall 7: 0 Grad 1 Fall 8: 0
+Grad 2 Fall 1: 5 Grad 2 Fall 2: 0 Grad 2 Fall 3: 466 Grad 2 Fall 4: 0 Grad 2 Fall 5: 0 Grad 2 Fall 6: 0 Grad 2 Fall 7: 20 Grad 2 Fall 8: 0 Grad 2 Fall 9: 5
+Grad 3 Fall 1: 1 Grad 3 Fall 2: 5 Grad 3 Fall 3: 0 Grad 3 Fall 3: 296 Grad 4 Fall 1: 4 Grad 4 Fall 2: 91 Ausgleichsschritte: 31
+ Runtime1: 10ms
+vertices: 4096 edges: 24576 average degree: 12 
+Graph Empty vertices_in_the_cover: 952 faktor: 1.58403
+Grad 1 Fall 1: 1 Grad 1 Fall 2: 7 Grad 1 Fall 3: 0 Grad 1 Fall 4: 0 Grad 1 Fall 5: 0 Grad 1 Fall 6: 0 Grad 1 Fall 7: 0 Grad 1 Fall 8: 0
+Grad 2 Fall 1: 4 Grad 2 Fall 2: 0 Grad 2 Fall 3: 975 Grad 2 Fall 4: 1 Grad 2 Fall 5: 0 Grad 2 Fall 6: 0 Grad 2 Fall 7: 33 Grad 2 Fall 8: 0 Grad 2 Fall 9: 2
+Grad 3 Fall 1: 0 Grad 3 Fall 2: 1 Grad 3 Fall 3: 0 Grad 3 Fall 3: 641 Grad 4 Fall 1: 9 Grad 4 Fall 2: 210 Ausgleichsschritte: 63
+ Runtime1: 20ms
+vertices: 8192 edges: 49152 average degree: 12 
+Graph Empty vertices_in_the_cover: 1397 faktor: 1.64741
+Grad 1 Fall 1: 1 Grad 1 Fall 2: 19 Grad 1 Fall 3: 0 Grad 1 Fall 4: 0 Grad 1 Fall 5: 0 Grad 1 Fall 6: 0 Grad 1 Fall 7: 0 Grad 1 Fall 8: 0
+Grad 2 Fall 1: 4 Grad 2 Fall 2: 0 Grad 2 Fall 3: 2062 Grad 2 Fall 4: 1 Grad 2 Fall 5: 0 Grad 2 Fall 6: 0 Grad 2 Fall 7: 37 Grad 2 Fall 8: 0 Grad 2 Fall 9: 3
+Grad 3 Fall 1: 0 Grad 3 Fall 2: 1 Grad 3 Fall 3: 1 Grad 3 Fall 3: 1319 Grad 4 Fall 1: 7 Grad 4 Fall 2: 418 Ausgleichsschritte: 106
+ Runtime1: 42ms
+vertices: 16384 edges: 98304 average degree: 12 
+Graph Empty vertices_in_the_cover: 2259 faktor: 1.70491
+Grad 1 Fall 1: 1 Grad 1 Fall 2: 23 Grad 1 Fall 3: 0 Grad 1 Fall 4: 0 Grad 1 Fall 5: 0 Grad 1 Fall 6: 0 Grad 1 Fall 7: 0 Grad 1 Fall 8: 1
+Grad 2 Fall 1: 12 Grad 2 Fall 2: 0 Grad 2 Fall 3: 4179 Grad 2 Fall 4: 4 Grad 2 Fall 5: 0 Grad 2 Fall 6: 1 Grad 2 Fall 7: 38 Grad 2 Fall 8: 0 Grad 2 Fall 9: 2
+Grad 3 Fall 1: 0 Grad 3 Fall 2: 8 Grad 3 Fall 3: 0 Grad 3 Fall 3: 2686 Grad 4 Fall 1: 4 Grad 4 Fall 2: 876 Ausgleichsschritte: 212
+ Runtime1: 130ms
+vertices: 1024 edges: 6656 average degree: 13 
+Graph Empty vertices_in_the_cover: 515 faktor: 1.46724
+Grad 1 Fall 1: 1 Grad 1 Fall 2: 10 Grad 1 Fall 3: 0 Grad 1 Fall 4: 0 Grad 1 Fall 5: 0 Grad 1 Fall 6: 0 Grad 1 Fall 7: 0 Grad 1 Fall 8: 0
+Grad 2 Fall 1: 6 Grad 2 Fall 2: 0 Grad 2 Fall 3: 184 Grad 2 Fall 4: 0 Grad 2 Fall 5: 0 Grad 2 Fall 6: 0 Grad 2 Fall 7: 25 Grad 2 Fall 8: 0 Grad 2 Fall 9: 0
+Grad 3 Fall 1: 0 Grad 3 Fall 2: 3 Grad 3 Fall 3: 0 Grad 3 Fall 3: 130 Grad 4 Fall 1: 0 Grad 4 Fall 2: 44 Ausgleichsschritte: 38
+ Runtime1: 8ms
+vertices: 2048 edges: 13312 average degree: 13 
+Graph Empty vertices_in_the_cover: 719 faktor: 1.58022
+Grad 1 Fall 1: 1 Grad 1 Fall 2: 10 Grad 1 Fall 3: 0 Grad 1 Fall 4: 0 Grad 1 Fall 5: 0 Grad 1 Fall 6: 0 Grad 1 Fall 7: 0 Grad 1 Fall 8: 0
+Grad 2 Fall 1: 1 Grad 2 Fall 2: 0 Grad 2 Fall 3: 433 Grad 2 Fall 4: 1 Grad 2 Fall 5: 0 Grad 2 Fall 6: 0 Grad 2 Fall 7: 19 Grad 2 Fall 8: 0 Grad 2 Fall 9: 2
+Grad 3 Fall 1: 0 Grad 3 Fall 2: 4 Grad 3 Fall 3: 0 Grad 3 Fall 3: 291 Grad 4 Fall 1: 3 Grad 4 Fall 2: 100 Ausgleichsschritte: 81
+ Runtime1: 8ms
+vertices: 4096 edges: 26624 average degree: 13 
+Graph Empty vertices_in_the_cover: 1054 faktor: 1.66509
+Grad 1 Fall 1: 1 Grad 1 Fall 2: 11 Grad 1 Fall 3: 0 Grad 1 Fall 4: 0 Grad 1 Fall 5: 0 Grad 1 Fall 6: 0 Grad 1 Fall 7: 0 Grad 1 Fall 8: 0
+Grad 2 Fall 1: 3 Grad 2 Fall 2: 0 Grad 2 Fall 3: 943 Grad 2 Fall 4: 0 Grad 2 Fall 5: 0 Grad 2 Fall 6: 0 Grad 2 Fall 7: 20 Grad 2 Fall 8: 0 Grad 2 Fall 9: 1
+Grad 3 Fall 1: 0 Grad 3 Fall 2: 1 Grad 3 Fall 3: 0 Grad 3 Fall 3: 615 Grad 4 Fall 1: 1 Grad 4 Fall 2: 200 Ausgleichsschritte: 164
+ Runtime1: 20ms
+vertices: 8192 edges: 53248 average degree: 13 
+Graph Empty vertices_in_the_cover: 1772 faktor: 1.70058
+Grad 1 Fall 1: 2 Grad 1 Fall 2: 8 Grad 1 Fall 3: 0 Grad 1 Fall 4: 0 Grad 1 Fall 5: 0 Grad 1 Fall 6: 0 Grad 1 Fall 7: 0 Grad 1 Fall 8: 0
+Grad 2 Fall 1: 9 Grad 2 Fall 2: 0 Grad 2 Fall 3: 1952 Grad 2 Fall 4: 1 Grad 2 Fall 5: 0 Grad 2 Fall 6: 1 Grad 2 Fall 7: 29 Grad 2 Fall 8: 0 Grad 2 Fall 9: 1
+Grad 3 Fall 1: 0 Grad 3 Fall 2: 9 Grad 3 Fall 3: 0 Grad 3 Fall 3: 1244 Grad 4 Fall 1: 3 Grad 4 Fall 2: 420 Ausgleichsschritte: 292
+ Runtime1: 65ms
+vertices: 16384 edges: 106496 average degree: 13 
+Graph Empty vertices_in_the_cover: 2844 faktor: 1.77528
+Grad 1 Fall 1: 0 Grad 1 Fall 2: 31 Grad 1 Fall 3: 0 Grad 1 Fall 4: 0 Grad 1 Fall 5: 0 Grad 1 Fall 6: 0 Grad 1 Fall 7: 0 Grad 1 Fall 8: 0
+Grad 2 Fall 1: 9 Grad 2 Fall 2: 0 Grad 2 Fall 3: 3971 Grad 2 Fall 4: 1 Grad 2 Fall 5: 0 Grad 2 Fall 6: 1 Grad 2 Fall 7: 42 Grad 2 Fall 8: 0 Grad 2 Fall 9: 3
+Grad 3 Fall 1: 0 Grad 3 Fall 2: 6 Grad 3 Fall 3: 0 Grad 3 Fall 3: 2576 Grad 4 Fall 1: 6 Grad 4 Fall 2: 874 Ausgleichsschritte: 541
+ Runtime1: 201ms
+vertices: 1024 edges: 7168 average degree: 14 
+Graph Empty vertices_in_the_cover: 536 faktor: 1.54023
+Grad 1 Fall 1: 0 Grad 1 Fall 2: 8 Grad 1 Fall 3: 0 Grad 1 Fall 4: 0 Grad 1 Fall 5: 0 Grad 1 Fall 6: 0 Grad 1 Fall 7: 0 Grad 1 Fall 8: 0
+Grad 2 Fall 1: 4 Grad 2 Fall 2: 0 Grad 2 Fall 3: 185 Grad 2 Fall 4: 0 Grad 2 Fall 5: 1 Grad 2 Fall 6: 0 Grad 2 Fall 7: 12 Grad 2 Fall 8: 0 Grad 2 Fall 9: 5
+Grad 3 Fall 1: 0 Grad 3 Fall 2: 3 Grad 3 Fall 3: 0 Grad 3 Fall 3: 121 Grad 4 Fall 1: 4 Grad 4 Fall 2: 45 Ausgleichsschritte: 55
+ Runtime1: 0ms
+vertices: 2048 edges: 14336 average degree: 14 
+Graph Empty vertices_in_the_cover: 850 faktor: 1.57993
+Grad 1 Fall 1: 0 Grad 1 Fall 2: 10 Grad 1 Fall 3: 0 Grad 1 Fall 4: 0 Grad 1 Fall 5: 0 Grad 1 Fall 6: 0 Grad 1 Fall 7: 0 Grad 1 Fall 8: 0
+Grad 2 Fall 1: 6 Grad 2 Fall 2: 0 Grad 2 Fall 3: 402 Grad 2 Fall 4: 0 Grad 2 Fall 5: 0 Grad 2 Fall 6: 1 Grad 2 Fall 7: 24 Grad 2 Fall 8: 0 Grad 2 Fall 9: 2
+Grad 3 Fall 1: 0 Grad 3 Fall 2: 3 Grad 3 Fall 3: 0 Grad 3 Fall 3: 267 Grad 4 Fall 1: 4 Grad 4 Fall 2: 93 Ausgleichsschritte: 120
+ Runtime1: 10ms
+vertices: 4096 edges: 28672 average degree: 14 
+Graph Empty vertices_in_the_cover: 1267 faktor: 1.60177
+Grad 1 Fall 1: 1 Grad 1 Fall 2: 23 Grad 1 Fall 3: 0 Grad 1 Fall 4: 0 Grad 1 Fall 5: 0 Grad 1 Fall 6: 0 Grad 1 Fall 7: 0 Grad 1 Fall 8: 1
+Grad 2 Fall 1: 6 Grad 2 Fall 2: 0 Grad 2 Fall 3: 868 Grad 2 Fall 4: 0 Grad 2 Fall 5: 0 Grad 2 Fall 6: 0 Grad 2 Fall 7: 39 Grad 2 Fall 8: 0 Grad 2 Fall 9: 2
+Grad 3 Fall 1: 0 Grad 3 Fall 2: 7 Grad 3 Fall 3: 0 Grad 3 Fall 3: 568 Grad 4 Fall 1: 0 Grad 4 Fall 2: 201 Ausgleichsschritte: 214
+ Runtime1: 30ms
+vertices: 8192 edges: 57344 average degree: 14 
+Graph Empty vertices_in_the_cover: 1998 faktor: 1.72837
+Grad 1 Fall 1: 1 Grad 1 Fall 2: 26 Grad 1 Fall 3: 0 Grad 1 Fall 4: 0 Grad 1 Fall 5: 0 Grad 1 Fall 6: 0 Grad 1 Fall 7: 0 Grad 1 Fall 8: 0
+Grad 2 Fall 1: 7 Grad 2 Fall 2: 0 Grad 2 Fall 3: 1841 Grad 2 Fall 4: 0 Grad 2 Fall 5: 0 Grad 2 Fall 6: 0 Grad 2 Fall 7: 50 Grad 2 Fall 8: 0 Grad 2 Fall 9: 1
+Grad 3 Fall 1: 0 Grad 3 Fall 2: 6 Grad 3 Fall 3: 0 Grad 3 Fall 3: 1195 Grad 4 Fall 1: 2 Grad 4 Fall 2: 399 Ausgleichsschritte: 459
+ Runtime1: 80ms
+vertices: 16384 edges: 114688 average degree: 14 
+Graph Empty vertices_in_the_cover: 3482 faktor: 1.81828
+Grad 1 Fall 1: 0 Grad 1 Fall 2: 22 Grad 1 Fall 3: 0 Grad 1 Fall 4: 0 Grad 1 Fall 5: 0 Grad 1 Fall 6: 0 Grad 1 Fall 7: 0 Grad 1 Fall 8: 0
+Grad 2 Fall 1: 5 Grad 2 Fall 2: 0 Grad 2 Fall 3: 3789 Grad 2 Fall 4: 1 Grad 2 Fall 5: 0 Grad 2 Fall 6: 0 Grad 2 Fall 7: 44 Grad 2 Fall 8: 0 Grad 2 Fall 9: 2
+Grad 3 Fall 1: 0 Grad 3 Fall 2: 9 Grad 3 Fall 3: 0 Grad 3 Fall 3: 2438 Grad 4 Fall 1: 3 Grad 4 Fall 2: 832 Ausgleichsschritte: 917
+ Runtime1: 261ms

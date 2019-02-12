@@ -1,0 +1,64 @@
+# Project: Projekt1
+# Makefile created by Dev-C++ 5.11
+
+CPP      = g++.exe -D__DEBUG__
+CC       = gcc.exe -D__DEBUG__
+WINDRES  = windres.exe
+OBJ      = main.o Knoten.o Kante.o Graph.o Zielgraph.o Hilfsgraph.o Knotenbank.o Element.o Hilfsknoten.o AlgoGrad4.o AlgoGrad4_1.o AlgoGrad4_2.o Hilfsliste.o
+LINKOBJ  = main.o Knoten.o Kante.o Graph.o Zielgraph.o Hilfsgraph.o Knotenbank.o Element.o Hilfsknoten.o AlgoGrad4.o AlgoGrad4_1.o AlgoGrad4_2.o Hilfsliste.o
+LIBS     = -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -static-libgcc -g3
+INCS     = -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include"
+CXXINCS  = -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"
+BIN      = MasterProgramm.exe
+CXXFLAGS = $(CXXINCS) -g3 -std=gnu++11
+CFLAGS   = $(INCS) -g3 -std=gnu++11
+RM       = rm.exe -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before $(BIN) all-after
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CPP) $(LINKOBJ) -o $(BIN) $(LIBS)
+
+main.o: main.cpp
+	$(CPP) -c main.cpp -o main.o $(CXXFLAGS)
+
+Knoten.o: Knoten.cpp
+	$(CPP) -c Knoten.cpp -o Knoten.o $(CXXFLAGS)
+
+Kante.o: Kante.cpp
+	$(CPP) -c Kante.cpp -o Kante.o $(CXXFLAGS)
+
+Graph.o: Graph.cpp
+	$(CPP) -c Graph.cpp -o Graph.o $(CXXFLAGS)
+
+Zielgraph.o: Zielgraph.cpp
+	$(CPP) -c Zielgraph.cpp -o Zielgraph.o $(CXXFLAGS)
+
+Hilfsgraph.o: Hilfsgraph.cpp
+	$(CPP) -c Hilfsgraph.cpp -o Hilfsgraph.o $(CXXFLAGS)
+
+Knotenbank.o: Knotenbank.cpp
+	$(CPP) -c Knotenbank.cpp -o Knotenbank.o $(CXXFLAGS)
+
+Element.o: Element.cpp
+	$(CPP) -c Element.cpp -o Element.o $(CXXFLAGS)
+
+Hilfsknoten.o: Hilfsknoten.cpp
+	$(CPP) -c Hilfsknoten.cpp -o Hilfsknoten.o $(CXXFLAGS)
+
+AlgoGrad4.o: AlgoGrad4.cpp
+	$(CPP) -c AlgoGrad4.cpp -o AlgoGrad4.o $(CXXFLAGS)
+
+AlgoGrad4_1.o: AlgoGrad4_1.cpp
+	$(CPP) -c AlgoGrad4_1.cpp -o AlgoGrad4_1.o $(CXXFLAGS)
+
+AlgoGrad4_2.o: AlgoGrad4_2.cpp
+	$(CPP) -c AlgoGrad4_2.cpp -o AlgoGrad4_2.o $(CXXFLAGS)
+
+Hilfsliste.o: Hilfsliste.cpp
+	$(CPP) -c Hilfsliste.cpp -o Hilfsliste.o $(CXXFLAGS)

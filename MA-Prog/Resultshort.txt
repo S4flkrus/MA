@@ -1,0 +1,130 @@
+vertices: 1024 edges: 1024 average degree: 2 
+vertices_in_the_cover: 495 faktor: 1 Runtime1: 0ms
+vertices: 1024 edges: 1536 average degree: 3 
+vertices_in_the_cover: 575 faktor: 1.20545 Runtime1: 0ms
+vertices: 1024 edges: 2048 average degree: 4 
+vertices_in_the_cover: 513 faktor: 1.40164 Runtime1: 0ms
+vertices: 1024 edges: 2560 average degree: 5 
+vertices_in_the_cover: 400 faktor: 1.44404 Runtime1: 0ms
+vertices: 1024 edges: 3072 average degree: 6 
+vertices_in_the_cover: 371 faktor: 1.44358 Runtime1: 0ms
+vertices: 1024 edges: 3584 average degree: 7 
+vertices_in_the_cover: 351 faktor: 1.43852 Runtime1: 0ms
+vertices: 1024 edges: 4096 average degree: 8 
+vertices_in_the_cover: 310 faktor: 1.42202 Runtime1: 0ms
+vertices: 1024 edges: 4608 average degree: 9 
+vertices_in_the_cover: 378 faktor: 1.39483 Runtime1: 0ms
+vertices: 1024 edges: 5120 average degree: 10 
+vertices_in_the_cover: 436 faktor: 1.42951 Runtime1: 15ms
+vertices: 1024 edges: 5632 average degree: 11 
+vertices_in_the_cover: 424 faktor: 1.41806 Runtime1: 0ms
+vertices: 1024 edges: 6144 average degree: 12 
+vertices_in_the_cover: 514 faktor: 1.46439 Runtime1: 15ms
+vertices: 1024 edges: 6656 average degree: 13 
+vertices_in_the_cover: 555 faktor: 1.48794 Runtime1: 0ms
+vertices: 1024 edges: 7168 average degree: 14 
+vertices_in_the_cover: 556 faktor: 1.51087 Runtime1: 0ms
+vertices: 2048 edges: 2048 average degree: 2 
+vertices_in_the_cover: 999 faktor: 1 Runtime1: 0ms
+vertices: 2048 edges: 3072 average degree: 3 
+vertices_in_the_cover: 1118 faktor: 1.18936 Runtime1: 0ms
+vertices: 2048 edges: 4096 average degree: 4 
+vertices_in_the_cover: 993 faktor: 1.4206 Runtime1: 0ms
+vertices: 2048 edges: 5120 average degree: 5 
+vertices_in_the_cover: 726 faktor: 1.49691 Runtime1: 0ms
+vertices: 2048 edges: 6144 average degree: 6 
+vertices_in_the_cover: 601 faktor: 1.51005 Runtime1: 0ms
+vertices: 2048 edges: 7168 average degree: 7 
+vertices_in_the_cover: 562 faktor: 1.49468 Runtime1: 15ms
+vertices: 2048 edges: 8192 average degree: 8 
+vertices_in_the_cover: 496 faktor: 1.4806 Runtime1: 0ms
+vertices: 2048 edges: 9216 average degree: 9 
+vertices_in_the_cover: 563 faktor: 1.46615 Runtime1: 0ms
+vertices: 2048 edges: 10240 average degree: 10 
+vertices_in_the_cover: 615 faktor: 1.45735 Runtime1: 0ms
+vertices: 2048 edges: 11264 average degree: 11 
+vertices_in_the_cover: 676 faktor: 1.46638 Runtime1: 0ms
+vertices: 2048 edges: 12288 average degree: 12 
+vertices_in_the_cover: 641 faktor: 1.50469 Runtime1: 8ms
+vertices: 2048 edges: 13312 average degree: 13 
+vertices_in_the_cover: 768 faktor: 1.49126 Runtime1: 10ms
+vertices: 2048 edges: 14336 average degree: 14 
+vertices_in_the_cover: 787 faktor: 1.60941 Runtime1: 10ms
+vertices: 4096 edges: 4096 average degree: 2 
+vertices_in_the_cover: 1967 faktor: 1 Runtime1: 0ms
+vertices: 4096 edges: 6144 average degree: 3 
+vertices_in_the_cover: 2255 faktor: 1.16718 Runtime1: 0ms
+vertices: 4096 edges: 8192 average degree: 4 
+vertices_in_the_cover: 1899 faktor: 1.43105 Runtime1: 0ms
+vertices: 4096 edges: 10240 average degree: 5 
+vertices_in_the_cover: 1414 faktor: 1.55899 Runtime1: 3ms
+vertices: 4096 edges: 12288 average degree: 6 
+vertices_in_the_cover: 1104 faktor: 1.60232 Runtime1: 5ms
+vertices: 4096 edges: 14336 average degree: 7 
+vertices_in_the_cover: 955 faktor: 1.56301 Runtime1: 6ms
+vertices: 4096 edges: 16384 average degree: 8 
+vertices_in_the_cover: 838 faktor: 1.59013 Runtime1: 10ms
+vertices: 4096 edges: 18432 average degree: 9 
+vertices_in_the_cover: 815 faktor: 1.59491 Runtime1: 10ms
+vertices: 4096 edges: 20480 average degree: 10 
+vertices_in_the_cover: 857 faktor: 1.53036 Runtime1: 10ms
+vertices: 4096 edges: 22528 average degree: 11 
+vertices_in_the_cover: 799 faktor: 1.53065 Runtime1: 10ms
+vertices: 4096 edges: 24576 average degree: 12 
+vertices_in_the_cover: 973 faktor: 1.57189 Runtime1: 12ms
+vertices: 4096 edges: 26624 average degree: 13 
+vertices_in_the_cover: 1068 faktor: 1.6036 Runtime1: 19ms
+vertices: 4096 edges: 28672 average degree: 14 
+vertices_in_the_cover: 1199 faktor: 1.65608 Runtime1: 30ms
+vertices: 8192 edges: 8192 average degree: 2 
+vertices_in_the_cover: 3952 faktor: 1.00025 Runtime1: 0ms
+vertices: 8192 edges: 12288 average degree: 3 
+vertices_in_the_cover: 4403 faktor: 1.18679 Runtime1: 8ms
+vertices: 8192 edges: 16384 average degree: 4 
+vertices_in_the_cover: 3713 faktor: 1.46354 Runtime1: 10ms
+vertices: 8192 edges: 20480 average degree: 5 
+vertices_in_the_cover: 2679 faktor: 1.57311 Runtime1: 10ms
+vertices: 8192 edges: 24576 average degree: 6 
+vertices_in_the_cover: 1949 faktor: 1.60941 Runtime1: 10ms
+vertices: 8192 edges: 28672 average degree: 7 
+vertices_in_the_cover: 1552 faktor: 1.63025 Runtime1: 20ms
+vertices: 8192 edges: 32768 average degree: 8 
+vertices_in_the_cover: 1342 faktor: 1.63659 Runtime1: 18ms
+vertices: 8192 edges: 36864 average degree: 9 
+vertices_in_the_cover: 1245 faktor: 1.61061 Runtime1: 20ms
+vertices: 8192 edges: 40960 average degree: 10 
+vertices_in_the_cover: 1186 faktor: 1.61801 Runtime1: 30ms
+vertices: 8192 edges: 45056 average degree: 11 
+vertices_in_the_cover: 1230 faktor: 1.60365 Runtime1: 30ms
+vertices: 8192 edges: 49152 average degree: 12 
+vertices_in_the_cover: 1353 faktor: 1.62425 Runtime1: 50ms
+vertices: 8192 edges: 53248 average degree: 13 
+vertices_in_the_cover: 1701 faktor: 1.71472 Runtime1: 68ms
+vertices: 8192 edges: 57344 average degree: 14 
+vertices_in_the_cover: 2006 faktor: 1.72485 Runtime1: 80ms
+vertices: 16384 edges: 16384 average degree: 2 
+vertices_in_the_cover: 7828 faktor: 1 Runtime1: 4ms
+vertices: 16384 edges: 24576 average degree: 3 
+vertices_in_the_cover: 9055 faktor: 1.17674 Runtime1: 2ms
+vertices: 16384 edges: 32768 average degree: 4 
+vertices_in_the_cover: 7540 faktor: 1.46893 Runtime1: 10ms
+vertices: 16384 edges: 40960 average degree: 5 
+vertices_in_the_cover: 5536 faktor: 1.59035 Runtime1: 20ms
+vertices: 16384 edges: 49152 average degree: 6 
+vertices_in_the_cover: 3627 faktor: 1.67606 Runtime1: 30ms
+vertices: 16384 edges: 57344 average degree: 7 
+vertices_in_the_cover: 3020 faktor: 1.69663 Runtime1: 40ms
+vertices: 16384 edges: 65536 average degree: 8 
+vertices_in_the_cover: 2440 faktor: 1.72682 Runtime1: 50ms
+vertices: 16384 edges: 73728 average degree: 9 
+vertices_in_the_cover: 2032 faktor: 1.72642 Runtime1: 68ms
+vertices: 16384 edges: 81920 average degree: 10 
+vertices_in_the_cover: 1890 faktor: 1.72603 Runtime1: 81ms
+vertices: 16384 edges: 90112 average degree: 11 
+vertices_in_the_cover: 1888 faktor: 1.7009 Runtime1: 89ms
+vertices: 16384 edges: 98304 average degree: 12 
+vertices_in_the_cover: 2300 faktor: 1.74639 Runtime1: 131ms
+vertices: 16384 edges: 106496 average degree: 13 
+vertices_in_the_cover: 2782 faktor: 1.77085 Runtime1: 190ms
+vertices: 16384 edges: 114688 average degree: 14 
+vertices_in_the_cover: 3428 faktor: 1.81568 Runtime1: 251ms
